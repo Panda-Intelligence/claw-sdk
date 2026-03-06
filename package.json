@@ -1,5 +1,5 @@
 {
-  "name": "claw-sdk",
+  "name": "@panda-ai/claw-sdk",
   "version": "0.1.0",
   "description": "Pure TypeScript SDK for standard OpenClaw gateway API calls",
   "main": "./dist/index.js",
